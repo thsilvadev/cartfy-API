@@ -1,6 +1,6 @@
 Olá!
     <br><br>
-Este é um projeto em grupo feito para o curso Resília de desenvolvimento Full Stack. Nosso grupo é composto de alunos de uma turma dos Programadores Cariocas, uma parceria da prefeitura do Rio de Janeiro com o Senac-RJ e com a Resília. Somos Thiago Pereira da Silva, Gabriel Pekim, Patryck Bruno e Daniel Victor, alunos da turma T6 do Senac-RJ unidade Campo Grande.  
+Este é um projeto em grupo feito para o curso Resília de desenvolvimento Full Stack. Nosso grupo é composto de alunos de uma turma dos Programadores Cariocas, uma parceria da prefeitura do Rio de Janeiro com o Senac-RJ e com a Resília. Somos Thiago Pereira da Silva, Gabriel Pekim, Patryck Bruno e Daniel Victor, alunos da turma T6 do Senac-RJ unidade Campo Grande.
     <br><br>
 A proposta desse projeto é desenvolver um site de apresentação de um novo produto lançado pela empresa fictícia "FrontEnders", uma empresa que oferece soluções para ajudar no dia-a-dia de programadores de front-end.
     <br><br>
