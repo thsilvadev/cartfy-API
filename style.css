@@ -1,0 +1,24 @@
+.navbar-custom{
+    background-color: #e73c2f;
+}
+
+.rodape{
+    background-color: rgb(35, 43, 39);
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: auto;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(35, 43, 39);
+}
+
+h1 {
+    text-align: center;
+}
